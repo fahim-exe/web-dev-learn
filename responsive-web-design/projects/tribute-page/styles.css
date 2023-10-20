@@ -1,0 +1,8 @@
+#image {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+  
+  img {
+    display: block;
+  }
